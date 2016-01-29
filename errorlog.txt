@@ -134,3 +134,16 @@ path fail: kea,174,160,171 -> 11,79,180: Id #6330:Path Goal Wilderness Curious S
 path fail: dwarf,174,41,130 -> 124,92,159: Id #5882:Path Goal Seek Station:Station Mill Building at 125,92,159
 path fail: dwarf,147,42,130 -> 124,75,159: Id #5328:Path Goal Seek Station:Station Mill Building at 124,74,159
 path fail: dwarf,Drink,171,31,129 -> 135,67,159: Id #6272:Path Goal Seek Drink Item:Station Mill Building at 130,76,159
+path fail: dwarf,Return Kill,113,67,159 -> 150,55,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,111,71,170 -> 176,53,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,103,84,172 -> 163,36,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,84,75,176 -> 168,96,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,81,72,178 -> 172,97,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,73,65,179 -> 161,102,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,64,63,177 -> 165,93,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,55,64,176 -> 169,110,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+loop path fail: <same square> dwarf,Store Item in Stockpile,111,87,170 -> 111,51,166: Id #4233:Path Goal Store Item:Station Mill Building at 123,76,159
+path fail: dwarf,Return Kill,34,72,177 -> 160,84,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,28,69,180 -> 163,36,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 124,90,159
+path fail: dwarf,Return Kill,22,81,180 -> 190,58,23: Id #6398:Path Goal Grab Kill:Station Mill Building at 123,78,159
+path fail: dwarf,Return Kill,11,98,179 -> 175,84,24: Id #6398:Path Goal Grab Kill:Station Mill Building at 123,78,159
