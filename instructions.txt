@@ -1,0 +1,12 @@
+-= Instructions =-
+Copy the data and raw folders over top of your vanilla Dwarf Fortress installation, overwriting the contents. If you have a saved game, you will need to copy the raw folder inside of data/save/<yoursave>, overwriting the contents again. If you want the racial graphics disabled, then open up your data/init/init file and replace [GRAPHICS:YES] with [GRAPHICS:NO].
+
+-= Notes =-
+This set will also work fine with almost any mod, provided it is ASCII. That includes the ASCII versions of Masterwork, Genesis, etc. If you're using the LNP, you can add this tileset to it by copying and pasting the "ASCII" graphics folder inside the LNP, then copying and pasting this set over top of it.
+
+Alternate tilesets, and colour schemes are included in the alternates folder with comparative screenshots. Alternate keybindings are also included, intended for easier z-level changing.
+
+"Oneshots" are included in the Alternate folder. This is a small collection of alternate dwarf graphics along with alternative tilesets.
+
+-= Warning =-
+Don't try to install on top of a different graphics set, such as Phoebus, Ironhand, etc. Again, install over top of "vanilla" Dwarf Fortress, or an ASCII version of your favourite mod.

@@ -1,0 +1,11 @@
+All of the graphics use the older style, bearded dwarf tiles that have been in use in my set in older versions. To use any of them, ensure that graphics are on and copy the graphics that you want into raw/graphics/taffer/taffer_dwarves.png, overwriting what is there. You will need to do the same to your saved game - data/save/regionX/raw/graphics/taffer/taffer_dwarves.png.
+
+If you do not make use of graphics then you will need to use your favourite graphics editor (I recommend Krita or GIMP) to edit your preferred tileset accordingly.
+
+The tilesets feature my "dwarf letters" variant: my original motivation to include racial graphics was to correct what I saw as a discrepency. Vanilla dwarves have graphics to represent them, and the other races do not. This simply uses fancy letters to represent dwarves. It's not for everyone, but if you get used to it then it offers complete consistency between races without making use of TWBT or graphics. If you want to use these then be sure to disable graphics init.txt.
+
+At present, the only "oneshot" tileset is a version without the new border graphics for designations and the window border. To use it, simply copy and paste it as taffer.png into data/art/taffer.png in your Dwarf Fortress folder.
+
+If you want them double-sized, simply scale them 200% without any scaling technique beyond simple linear scaling. The option in Krita for this is "Box".
+
+I am open to reasonable requests for more "oneshots" for this folder. Leave a message in my forum thread (http://www.bay12forums.com/smf/index.php?topic=107924.0) if you would like me to make one for you.

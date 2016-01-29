@@ -1,0 +1,4 @@
+Known bugs in the default game regarding the graphics are below. All of them can be fixed by going into data/init/init.txt and turning off the graphics, by setting GRAPHICS to "NO".
+- Goblins, elves, humans, and kobolds that are dead, out of sight in adventure mode, or carved on walls will still look like their default letters.
+- Playing in adventure mode will result in your character (and all other historical figures) flashing blue.
+- The status screen in dwarf fortress mode shows the same icon for both regular and soldier dwarves.
