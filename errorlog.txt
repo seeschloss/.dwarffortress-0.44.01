@@ -634,3 +634,17 @@ loop path fail: <same square> dwarf,Store Item in Location,111,60,159 -> 125,74,
 loop path fail: <same square> dwarf,110,55,159 -> 116,58,159: Id #6975:Path Goal Performance:Station Mill Building at 107,58,159
 loop path fail: <same square> dwarf,114,56,159 -> 115,59,159: Id #6160:Path Goal Performance:Station Mill Building at 109,46,159
 loop path fail: <same square> dwarf,115,47,159 -> 109,49,159: Id #4951:Path Goal Performance:Station Mill Building at 120,76,159
+path fail: troglodyte,10,20,106 -> 12,20,114: Id #7179:Path Goal Chase Opponent Flood:Station Marauder Mill at 11,20,113
+path fail: crundle,134,25,63 -> 134,25,68: Id #7162:Path Goal Seek Station Flood:Station Owner at 134,25,68
+path fail: crundle,132,27,64 -> 131,27,65: Id #7189:Path Goal Chase Opponent (Same Square):Station None at 134,25,63
+path fail: dwarf,Dig Channel,112,142,128 -> 114,143,128: Id #7072:Path Goal Dig:Station Mill Building at 60,124,128
+path fail: dwarf,Dig,114,142,128 -> 114,142,127: Id #7071:Path Goal Dig:Station None at 114,143,127
+path fail: dwarf,Dig,93,142,128 -> 114,142,127: Id #7071:Path Goal Dig:Station Mill Building at 60,122,128
+path fail: dwarf,115,144,128 -> 114,142,127: Id #7072:Path Goal Seek Station:Station None at 114,143,127
+path fail: dwarf,114,141,127 -> 61,127,128: Id #7072:Path Goal Seek Station:Station Mill Building at 61,127,128
+path fail: dwarf,116,143,128 -> 114,142,127: Id #7072:Path Goal Seek Station:Station None at 114,143,127
+path fail: dwarf,114,142,127 -> 110,142,128: Id #7229:Path Goal Chase Opponent Flood:Station Undead Hunt at 85,142,128
+path fail: dwarf,Construct Building,79,137,128 -> 65,104,127: Id #7075:Path Goal Main Job Building:Station Mill Building at 60,125,128
+path fail: dwarf,Construct Building,65,104,128 -> 65,104,127: Id #7075:Path Goal Clean Building Site:Station Mill Building at 68,124,128
+path fail: dwarf,71,130,129 -> 68,126,128: Id #7410:Path Goal Seek Station:Station None at 71,130,129
+path fail: dwarf,71,132,129 -> 67,121,128: Id #7410:Path Goal Seek Station:Station Undead Hunt at 67,120,128
