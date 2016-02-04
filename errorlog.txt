@@ -653,3 +653,15 @@ path fail: dwarf,114,50,23 -> 114,50,40: Id #12705:Path Goal Flee Terrain:Statio
 path fail: dwarf,82,51,173 -> 84,62,174: Id #13093:Path Goal Seek Station Flood:Station Undead Hunt at 84,62,174
 loop path fail: <same square> dwarf,Construct electrum Cabinet,114,57,23 -> 113,70,23: Id #13255:Path Goal Grab Job Resources:Station Mill Building at 66,71,178
 path fail: dwarf,82,51,173 -> 82,51,174: Id #13616:Path Goal Chase Opponent Flood:Station None at 82,51,173
+path fail: dwarf,Fell Tree,76,67,178 -> 167,24,143: Id #13525:Path Goal Chop:Station Mill Building at 71,63,178
+path fail: troglodyte,132,33,143 -> 132,35,142: Id #13794:Path Goal Seek Station Flood:Station Marauder Mill at 132,35,142
+path fail: troglodyte,85,76,143 -> 86,77,142: Id #13794:Path Goal Seek Station Flood:Station Marauder Mill at 86,77,142
+path fail: dwarf,Construct Building,94,62,174 -> 119,51,22: Id #13362:Path Goal Drop Off Job Items:Station Mill Building at 69,70,178
+path fail: dwarf,Smelt hematite Ore,138,54,147 -> 113,70,23: Id #13370:Path Goal Work at Building:Station Mill Building at 70,62,178
+path fail: dwarf,Construct adamantine Statue,114,50,153 -> 106,66,23: Id #13255:Path Goal Grab Job Resources:Station Milling Burrow at 66,59,174
+path fail: dwarf,Smelt hematite Ore,120,23,142 -> 112,66,23: Id #13167:Path Goal Work at Building:Station Milling Burrow at 76,70,174
+loop path fail: <same square> dwarf,Store Item in Bag,70,63,178 -> 66,52,178: Id #12706:Path Goal Seek Item for Storage:Station Mill Building at 74,67,178
+path fail: troglodyte,82,51,173 -> 82,62,176: Id #13835:Path Goal Seek Station Flood:Station Undead Hunt at 82,62,176
+path fail: troglodyte,82,51,173 -> 82,62,174: Id #13835:Path Goal Seek Station Flood:Station Undead Hunt at 82,62,174
+path fail: troglodyte,82,51,173 -> 83,62,174: Id #13835:Path Goal Seek Station Flood:Station Undead Hunt at 83,62,174
+path fail: troglodyte,82,51,173 -> 82,61,174: Id #13835:Path Goal Seek Station Flood:Station Undead Hunt at 82,61,174
