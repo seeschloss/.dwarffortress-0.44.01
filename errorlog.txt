@@ -665,3 +665,495 @@ path fail: troglodyte,82,51,173 -> 82,62,176: Id #13835:Path Goal Seek Station F
 path fail: troglodyte,82,51,173 -> 82,62,174: Id #13835:Path Goal Seek Station Flood:Station Undead Hunt at 82,62,174
 path fail: troglodyte,82,51,173 -> 83,62,174: Id #13835:Path Goal Seek Station Flood:Station Undead Hunt at 83,62,174
 path fail: troglodyte,82,51,173 -> 82,61,174: Id #13835:Path Goal Seek Station Flood:Station Undead Hunt at 82,61,174
+path fail: dwarf,Pickup Equipment,65,62,176 -> 114,51,147: Id #13363:Path Goal Grab Uniform:Station Mill Building at 78,50,174
+path fail: dwarf,Pickup Equipment,55,62,176 -> 114,51,147: Id #13258:Path Goal Grab Uniform:Station Mill Building at 77,49,174
+path fail: human,Drink,69,52,174 -> 115,47,147: Id #938:Path Goal Start Water Job Well:Station Mill Building at 76,51,174
+path fail: dwarf,Drink,114,50,151 -> 114,46,147: Id #13507:Path Goal Start Water Job Well:Station Mill Building at 76,45,174
+path fail: human,Drink,84,62,174 -> 113,47,147: Id #954:Path Goal Start Water Job Well:Station Mill Building at 75,48,174
+path fail: human,Drink,114,50,151 -> 114,48,147: Id #2049:Path Goal Start Water Job Well:Station Mill Building at 57,49,174
+path fail: human,Drink,114,50,151 -> 115,48,147: Id #3972:Path Goal Start Water Job Well:Station Mill Building at 77,48,174
+path fail: human,Drink,114,50,151 -> 113,46,147: Id #8003:Path Goal Start Water Job Well:Station Mill Building at 76,49,174
+path fail: human,Drink,114,50,152 -> 113,48,147: Id #985:Path Goal Start Water Job Well:Station Mill Building at 69,46,174
+path fail: human,Drink,114,50,152 -> 115,46,147: Id #98:Path Goal Start Water Job Well:Station Mill Building at 76,45,174
+loop path fail: <same square> dwarf,51,45,174 -> 67,51,174: Id #13655:Path Goal Performance:Station Mill Building at 69,48,174
+loop path fail: <same square> human,66,46,174 -> 67,47,174: Id #3045:Path Goal Performance:Station Mill Building at 67,43,174
+loop path fail: <same square> elf,64,45,174 -> 60,51,174: Id #11982:Path Goal Performance:Station Mill Building at 55,53,174
+path fail: dwarf,Smelt tetrahedrite Ore,141,54,146 -> 137,54,147: Id #14121:Path Goal Grab Job Resources:Station None at 113,70,23
+loop path fail: <same square> human,49,51,174 -> 48,52,174: Id #983:Path Goal Performance:Station Mill Building at 69,49,174
+loop path fail: <same square> dwarf,68,43,174 -> 70,44,174: Id #13973:Path Goal Performance:Station Mill Building at 58,48,174
+loop path fail: <same square> dwarf,56,49,174 -> 61,50,174: Id #13878:Path Goal Performance:Station Mill Building at 47,52,174
+loop path fail: <same square> human,54,46,174 -> 69,44,174: Id #4408:Path Goal Performance:Station Mill Building at 52,49,174
+loop path fail: <same square> dwarf,Forge copper crossbow,65,49,174 -> 112,66,23: Id #14108:Path Goal Grab Job Resources:Station Mill Building at 59,45,174
+path fail: dwarf,Pickup Equipment,57,51,174 -> 114,50,150: Id #13530:Path Goal Grab Uniform:Station Mill Building at 56,53,174
+path fail: human,114,50,151 -> 114,50,150: Id #2053:Path Goal Chase Opponent Flood:Station Mill Building at 67,50,174
+path fail: human,Drink,79,62,174 -> 113,47,147: Id #11925:Path Goal Start Water Job Well:Station Mill Building at 69,52,174
+path fail: human,Drink,59,51,174 -> 113,46,147: Id #948:Path Goal Start Water Job Well:Station Mill Building at 48,49,174
+path fail: human,Drink,114,50,157 -> 114,48,147: Id #9379:Path Goal Start Water Job Well:Station Squad Move at 79,77,179
+path fail: dwarf,Pickup Equipment,63,62,176 -> 114,50,150: Id #13361:Path Goal Grab Uniform:Station Mill Building at 74,36,174
+path fail: dwarf,Drink,65,55,174 -> 115,48,147: Id #14263:Path Goal Start Water Job Well:Station Mill Building at 64,43,174
+path fail: human,Drink,65,55,174 -> 115,46,147: Id #2052:Path Goal Start Water Job Well:Station Mill Building at 48,45,174
+path fail: dwarf,Drink,114,50,151 -> 115,47,147: Id #13586:Path Goal Start Water Job Well:Station Mill Building at 62,49,174
+path fail: human,Drink,47,68,178 -> 114,46,147: Id #2748:Path Goal Start Water Job Well:Station Squad Move at 79,77,179
+path fail: goblin,Pickup Equipment,114,50,157 -> 114,50,150: Id #11927:Path Goal Grab Uniform:Station Mill Building at 61,51,174
+path fail: dwarf,Drink,114,50,158 -> 113,48,147: Id #13818:Path Goal Start Water Job Well:Station Mill Building at 75,47,174
+path fail: dwarf,Pickup Equipment,114,60,163 -> 114,50,150: Id #13585:Path Goal Grab Uniform:Station Mill Building at 69,52,174
+path fail: dwarf,Extract Metal Strands,20,26,22 -> 61,58,174: Id #13155:Path Goal Work at Building:Station None at 46,58,23
+loop path fail: <same square> human,66,52,174 -> 55,52,174: Id #5898:Path Goal Performance:Station Mill Building at 59,49,174
+loop path fail: <same square> human,52,46,174 -> 50,44,174: Id #2148:Path Goal Performance:Station Mill Building at 65,53,174
+loop path fail: <same square> dwarf,65,44,174 -> 69,44,174: Id #14178:Path Goal Performance:Station Mill Building at 57,53,174
+loop path fail: <same square> dwarf,Give Water,68,45,174 -> 38,62,178: Id #14265:Path Goal Seek Give Water Bucket:Station Mill Building at 53,53,174
+loop path fail: <same square> human,55,48,174 -> 46,45,174: Id #6832:Path Goal Performance:Station Mill Building at 64,52,174
+loop path fail: <same square> human,66,46,174 -> 67,47,174: Id #4248:Path Goal Performance:Station Mill Building at 55,53,174
+path fail: dwarf,82,51,173 -> 82,52,176: Id #14356:Path Goal Seek Station Flood:Station Undead Hunt at 82,52,176
+path fail: dwarf,82,51,173 -> 82,55,176: Id #14358:Path Goal Seek Station Flood:Station Undead Hunt at 82,55,176
+loop path fail: <same square> elf,53,44,174 -> 50,45,174: Id #11645:Path Goal Performance:Station Mill Building at 52,49,174
+path fail: dwarf,83,51,173 -> 82,52,176: Id #14356:Path Goal Seek Station Flood:Station Undead Hunt at 82,52,176
+path fail: dwarf,83,51,173 -> 82,53,176: Id #14358:Path Goal Seek Station Flood:Station Undead Hunt at 82,53,176
+loop path fail: <same square> human,54,49,174 -> 69,51,174: Id #2227:Path Goal Performance:Station Mill Building at 46,48,174
+loop path fail: <same square> human,56,52,174 -> 65,47,174: Id #2611:Path Goal Performance:Station Mill Building at 65,50,174
+path fail: dwarf,Give Water,78,67,178 -> 66,69,178: Id #14171:Path Goal Seek Give Water Bucket:Station Mill Building at 60,50,174
+loop path fail: <same square> human,55,45,174 -> 51,44,174: Id #5258:Path Goal Performance:Station Mill Building at 50,50,174
+loop path fail: <same square> human,52,50,174 -> 46,50,174: Id #972:Path Goal Performance:Station Mill Building at 54,45,174
+loop path fail: <same square> human,62,46,174 -> 64,43,174: Id #2050:Path Goal Performance:Station Mill Building at 60,45,174
+loop path fail: <same square> human,65,48,174 -> 69,46,174: Id #958:Path Goal Performance:Station Mill Building at 49,51,174
+loop path fail: <same square> human,62,47,174 -> 65,45,174: Id #178:Path Goal Performance:Station Mill Building at 69,47,174
+loop path fail: <same square> elf,51,49,174 -> 47,50,174: Id #11645:Path Goal Performance:Station Mill Building at 52,49,174
+loop path fail: <same square> human,60,49,174 -> 65,49,174: Id #1008:Path Goal Performance:Station Mill Building at 54,51,174
+loop path fail: <same square> human,56,46,174 -> 58,43,174: Id #992:Path Goal Performance:Station Mill Building at 54,52,174
+loop path fail: <same square> dwarf,57,50,174 -> 54,50,174: Id #14264:Path Goal Seek Station:Station Mill Building at 55,51,174
+loop path fail: <same square> human,50,52,174 -> 49,53,174: Id #6832:Path Goal Performance:Station Mill Building at 64,52,174
+loop path fail: <same square> human,58,49,174 -> 54,50,174: Id #4164:Path Goal Performance:Station Mill Building at 58,45,174
+loop path fail: <same square> human,61,50,174 -> 62,50,174: Id #2148:Path Goal Performance:Station Mill Building at 67,49,174
+Repairing squad info for Unit #14525
+path fail: <invalid goal> human,0,111,151 -> -30,111,151: Id #11064:Path Goal Make Believe:Station None at 17,111,151
+Site Map:  Extra Item Occupancy 163,56,178
+Site Map:  Extra Item Occupancy 164,56,178
+Site Map:  Extra Item Occupancy 143,52,178
+path fail: <invalid goal> human,0,23,181 -> -15,18,181: Id #2965:Path Goal Seek Station:Station Mill Anywhere at -16,21,181
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: dwarf,Construct Building,51,30,131 -> 51,28,131: Id #15886:Path Goal Work at Building:Station Mill Building at 83,44,134
+path fail: dwarf,Eat,46,33,133 -> 87,23,134: Id #15886:Path Goal Seek Eating Chair:Station Mill Building at 81,50,134
+path fail: dwarf,Plant Seeds,70,28,127 -> 31,37,134: Id #15889:Path Goal Work at Building:Station Mill Building at 57,23,127
+loop path fail: <same square> dwarf,Dump Item,65,44,104 -> 67,31,104: Id #15890:Path Goal Seek Item for Storage:Station Mill Building at 60,38,127
+path fail: dwarf,64,55,12 -> 60,25,127: Id #16205:Path Goal Seek Station:Station Mill Building at 61,24,127
+path fail: dwarf,Return Kill,78,118,135 -> 126,34,24: Id #16741:Path Goal Grab Kill:Station Mill Building at 64,38,127
+loop path fail: <same square> dwarf,60,35,127 -> 57,34,127: Id #16332:Path Goal Performance:Station Mill Building at 60,31,127
+loop path fail: <same square> human,61,30,127 -> 60,27,127: Id #4989:Path Goal Performance:Station Mill Building at 60,34,127
+loop path fail: <same square> dwarf,59,36,127 -> 63,34,127: Id #16339:Path Goal Performance:Station Mill Building at 65,38,127
+loop path fail: <same square> dwarf,62,29,127 -> 62,23,127: Id #16447:Path Goal Performance:Station Mill Building at 64,29,127
+loop path fail: <same square> dwarf,60,29,127 -> 59,29,127: Id #16446:Path Goal Performance:Station Mill Building at 57,26,127
+loop path fail: <same square> dwarf,61,33,127 -> 62,30,127: Id #16811:Path Goal Performance:Station Mill Building at 64,30,127
+path fail: donkey,54,3,136 -> 47,2,136: Id #16330:Path Goal Flee from Opponent:Station Graze at 58,28,135
+loop path fail: <same square> human,58,29,127 -> 59,37,127: Id #3443:Path Goal Performance:Station Mill Building at 62,36,127
+path fail: horse,9,133,135 -> 23,130,135: Id #16343:Path Goal Flee from Opponent:Station Graze at 58,28,135
+path fail: gander,29,96,136 -> 60,29,135: Id #16722:Path Goal Seek Station:Station None at 62,26,135
+path fail: gander,29,96,136 -> 64,28,135: Id #16722:Path Goal Seek Station:Station None at 62,26,135
+path fail: gander,29,96,136 -> 60,25,135: Id #16722:Path Goal Seek Station:Station None at 62,26,135
+path fail: dwarf,Pen/Pasture Stray Horse Foal (Tame),63,141,135 -> 109,92,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse Foal (Tame),63,141,135 -> 107,89,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse Foal (Tame),66,140,135 -> 107,90,135: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: horse,107,90,135 -> 115,75,136: Id #16821:Path Goal Flee from Opponent:Station Owner at 78,110,135
+path fail: horse,105,90,136 -> 93,80,135: Id #16821:Path Goal Flee from Opponent:Station Owner at 78,110,135
+path fail: mule,118,86,136 -> 129,82,136: Id #16336:Path Goal Flee from Opponent:Station Graze at 62,29,135
+path fail: dwarf,Pen/Pasture Stray Mule (Tame),66,140,135 -> 118,86,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Mule (Tame),66,140,135 -> 118,86,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),66,140,135 -> 78,102,135: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Mule (Tame),70,134,135 -> 118,86,136: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),72,119,135 -> 68,11,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: horse,78,102,135 -> 69,117,135: Id #16358:Path Goal Flee Terrain:Station Graze at 55,30,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),66,140,135 -> 67,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Mule (Tame),69,123,135 -> 119,84,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),64,141,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Mule (Tame),66,140,135 -> 118,81,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),64,141,135 -> 67,12,136: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),64,131,135 -> 78,102,135: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),66,140,135 -> 67,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Mule (Tame),64,141,135 -> 118,80,136: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),67,140,135 -> 78,102,135: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Guineacock (Tame),67,140,135 -> 65,23,135: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),66,140,135 -> 78,102,135: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),64,141,135 -> 66,41,136: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),67,140,135 -> 71,41,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Guineacock (Tame),66,140,135 -> 65,23,135: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),64,141,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),67,140,135 -> 69,43,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Guineacock (Tame),66,140,135 -> 65,23,135: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),64,141,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),66,141,135 -> 71,41,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),66,140,135 -> 67,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),64,141,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),66,141,135 -> 71,39,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),66,140,135 -> 67,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),64,141,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),66,141,135 -> 71,39,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),66,140,135 -> 67,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),62,140,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),62,140,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),61,143,135 -> 66,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),64,142,135 -> 71,39,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),64,142,135 -> 66,12,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),61,143,135 -> 71,39,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),62,140,135 -> 78,102,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: horse,78,102,135 -> 58,28,135: Id #16358:Path Goal Nonsense:Station Graze at 55,30,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),64,142,135 -> 70,46,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),61,143,135 -> 66,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),62,140,135 -> 78,103,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),63,143,135 -> 65,51,135: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),61,143,135 -> 66,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),62,140,135 -> 76,111,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),62,142,135 -> 75,116,135: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),61,143,135 -> 66,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),62,140,135 -> 70,42,136: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),61,143,135 -> 70,33,136: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),61,143,135 -> 66,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),61,141,135 -> 76,126,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Cat (Tame),61,143,135 -> 63,25,135: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Duckling (Tame),61,143,135 -> 66,12,136: Id #16884:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),60,142,135 -> 81,136,135: Id #16883:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: dwarf,Pen/Pasture Stray Horse (Tame),60,143,135 -> 84,143,135: Id #16885:Path Goal Grab Cage Unit:Station None at 64,143,135
+path fail: horse,93,130,135 -> 101,131,135: Id #16358:Path Goal Flee from Opponent:Station Graze at 58,29,135
+path fail: turkey hen,60,28,135 -> 59,45,135: Id #16723:Path Goal Flee Terrain:Station None at 61,29,135
+path fail: water buffalo cow,62,29,135 -> 80,43,136: Id #16353:Path Goal Flee Terrain:Station Graze at 62,29,135
+path fail: hen,62,29,135 -> 80,43,136: Id #16450:Path Goal Flee Terrain:Station None at 63,26,135
+path fail: horse,58,27,135 -> 51,44,136: Id #15893:Path Goal Flee Terrain:Station Graze at 58,27,135
+path fail: yak bull,58,27,135 -> 64,44,135: Id #15892:Path Goal Flee Terrain:Station Graze at 58,27,135
+path fail: guineacock,53,27,135 -> 67,27,135: Id #16737:Path Goal Flee Terrain:Station None at 55,30,135
+path fail: sow,64,17,135 -> 67,4,136: Id #16725:Path Goal Flee from Opponent:Station None at 62,24,135
+path fail: yak cow,53,23,135 -> 42,17,136: Id #16422:Path Goal Flee from Opponent:Station Graze at 58,27,135
+path fail: yak cow,51,22,136 -> 39,12,136: Id #16095:Path Goal Flee from Opponent:Station Graze at 58,27,135
+path fail: yak cow,1,10,135 -> 51,22,136: Id #16766:Path Goal Seek Station:Station Owner at 51,22,136
+path fail: yak cow,1,10,135 -> 51,23,136: Id #16766:Path Goal Seek Station:Station Owner at 51,22,136
+path fail: yak cow,1,10,135 -> 51,22,136: Id #16766:Path Goal Seek Station:Station Owner at 51,22,136
+path fail: yak cow,1,10,135 -> 51,24,136: Id #16766:Path Goal Seek Station:Station Owner at 51,22,136
+path fail: yak cow,1,10,135 -> 53,20,136: Id #16766:Path Goal Seek Station:Station Owner at 51,22,136
+path fail: yak cow,13,10,136 -> 26,0,136: Id #16766:Path Goal Flee from Opponent:Station Owner at 51,22,136
+path fail: yak cow,63,41,136 -> 72,38,135: Id #16838:Path Goal Seek Station Flood:Station None at 72,38,135
+path fail: horse,63,41,136 -> 72,38,135: Id #16833:Path Goal Seek Station Flood:Station None at 72,38,135
+path fail: water buffalo bull,63,41,136 -> 72,38,135: Id #16843:Path Goal Seek Station Flood:Station None at 72,38,135
+loop path fail: <same square> dwarf,66,28,127 -> 62,24,127: Id #16448:Path Goal Performance:Station Mill Building at 62,38,127
+loop path fail: <same square> human,59,31,127 -> 57,35,127: Id #4993:Path Goal Performance:Station Mill Building at 60,32,127
+loop path fail: <same square> elf,57,28,127 -> 59,38,127: Id #11998:Path Goal Performance:Station Mill Building at 63,34,127
+loop path fail: <same square> dwarf,65,33,127 -> 61,36,127: Id #16750:Path Goal Performance:Station Mill Building at 62,24,127
+loop path fail: <same square> dwarf,59,32,127 -> 59,38,127: Id #16350:Path Goal Performance:Station Mill Building at 66,28,127
+loop path fail: <same square> dwarf,64,31,127 -> 64,30,127: Id #16733:Path Goal Performance:Station Mill Building at 65,38,127
+loop path fail: <same square> dwarf,64,27,127 -> 62,25,127: Id #16749:Path Goal Performance:Station Mill Building at 58,37,127
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+path fail: naked mole dog,121,6,38 -> 121,6,40: Id #16499:Path Goal Marauder Mill:Station Marauder Mill at 121,6,40
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+path fail: horse,63,41,136 -> 73,44,135: Id #16516:Path Goal Seek Station Flood:Station None at 73,44,135
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, graphite blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, graphite blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silver bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silver bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silver bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+loop path fail: <same square> human,64,32,127 -> 66,32,127: Id #9240:Path Goal Performance:Station Mill Building at 58,32,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+loop path fail: <same square> human,60,26,127 -> 58,31,127: Id #8809:Path Goal Performance:Station Mill Building at 65,22,127
+loop path fail: <same square> human,62,25,127 -> 62,24,127: Id #7129:Path Goal Performance:Station Mill Building at 64,35,127
+loop path fail: <same square> dwarf,59,23,127 -> 59,22,127: Id #16788:Path Goal Performance:Station Mill Building at 58,37,127
+loop path fail: <same square> dwarf,64,25,127 -> 66,25,127: Id #16790:Path Goal Performance:Station Mill Building at 61,34,127
+loop path fail: <same square> human,59,26,127 -> 57,24,127: Id #8809:Path Goal Performance:Station Mill Building at 59,22,127
+loop path fail: <same square> human,63,27,127 -> 59,26,127: Id #941:Path Goal Performance:Station Mill Building at 66,38,127
+path fail: dwarf,Fish,28,73,108 -> 9,131,136: Id #16849:Path Goal Start Fish:Station Mill Building at 57,34,127
+path fail: dwarf,Plant Seeds,70,28,127 -> 40,23,135: Id #16091:Path Goal Work at Building:Station Mill Building at 65,32,127
+path fail: dwarf,Plant Seeds,41,18,135 -> 39,23,135: Id #15889:Path Goal Work at Building:Station Mill Building at 45,37,128
+path fail: dwarf,Plant Seeds,70,28,127 -> 37,30,135: Id #16094:Path Goal Work at Building:Station Mill Building at 59,32,127
+path fail: troll,59,36,135 -> 56,35,134: Id #17066:Path Goal Chase Opponent Flood:Station Commander at 71,41,136
+loop path fail: <same square> human,63,24,127 -> 63,22,127: Id #3021:Path Goal Performance:Station Mill Building at 59,23,127
+Site Map:  Extra Item Occupancy 79,16,134
+Site Map:  Extra Item Occupancy 79,17,134
+Site Map:  Extra Item Occupancy 79,18,134
+Site Map:  Extra Item Occupancy 79,19,134
+Site Map:  Extra Item Occupancy 78,9,134
+Site Map:  Extra Item Occupancy 79,13,134
+Site Map:  Extra Item Occupancy 79,14,134
+Site Map:  Extra Item Occupancy 79,15,134
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Site Map:  Extra Item Occupancy 79,16,134
+Site Map:  Extra Item Occupancy 79,17,134
+Site Map:  Extra Item Occupancy 79,18,134
+Site Map:  Extra Item Occupancy 79,19,134
+Site Map:  Extra Item Occupancy 78,9,134
+Site Map:  Extra Item Occupancy 79,13,134
+Site Map:  Extra Item Occupancy 79,14,134
+Site Map:  Extra Item Occupancy 79,15,134
+path fail: naked mole dog,113,67,45 -> 115,68,47: Id #16894:Path Goal Seek Station Flood:Station Owner at 115,68,47
+path fail: naked mole dog,113,67,45 -> 116,69,47: Id #16893:Path Goal Seek Station Flood:Station Owner at 116,69,47
+path fail: naked mole dog,113,67,45 -> 114,68,47: Id #16892:Path Goal Seek Station Flood:Station Owner at 114,68,47
+path fail: naked mole dog,114,66,39 -> 113,67,45: Id #16893:Path Goal Seek Station Flood:Station None at 113,67,45
+path fail: naked mole dog,111,2,39 -> 123,0,38: Id #16894:Path Goal Marauder Mill:Station None at 111,2,39
+loop path fail: <same square> human,58,32,127 -> 60,25,127: Id #6290:Path Goal Performance:Station Mill Building at 64,24,127
+loop path fail: <same square> human,64,33,127 -> 64,23,127: Id #6447:Path Goal Performance:Station Mill Building at 63,22,127
+loop path fail: <same square> human,57,27,127 -> 57,24,127: Id #9232:Path Goal Performance:Station Mill Building at 60,32,127
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+loop path fail: <same square> elf,58,28,127 -> 57,25,127: Id #3433:Path Goal Performance:Station Mill Building at 58,38,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Tode Z”tosnun's head
+loop path fail: <same square> human,63,36,127 -> 57,34,127: Id #11652:Path Goal Performance:Station Mill Building at 43,37,128
+loop path fail: <same square> goblin,58,26,127 -> 58,23,127: Id #11717:Path Goal Performance:Station Mill Building at 45,36,128
+loop path fail: <same square> human,65,30,127 -> 66,22,127: Id #8987:Path Goal Performance:Station Mill Building at 58,24,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+loop path fail: <same square> human,59,28,127 -> 58,27,127: Id #8654:Path Goal Performance:Station Mill Building at 65,32,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+loop path fail: <same square> human,64,31,127 -> 57,27,127: Id #5849:Path Goal Performance:Station Mill Building at 64,22,127
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+loop path fail: <same square> human,Eat,62,32,127 -> 71,28,127: Id #5866:Path Goal Start Eat Job:Station Mill Building at 64,28,127
+loop path fail: <same square> human,62,34,127 -> 62,38,127: Id #3431:Path Goal Performance:Station Mill Building at 63,36,127
+loop path fail: <same square> human,59,30,127 -> 59,31,127: Id #4995:Path Goal Performance:Station Mill Building at 63,30,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tin bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+loop path fail: <same square> human,64,28,127 -> 64,26,127: Id #3070:Path Goal Performance:Station Mill Building at 62,34,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tin bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+loop path fail: <same square> goblin,63,32,127 -> 59,23,127: Id #11717:Path Goal Performance:Station Mill Building at 66,32,127
+loop path fail: <same square> human,63,31,127 -> 61,35,127: Id #6793:Path Goal Performance:Station Mill Building at 60,31,127
+loop path fail: <same square> human,62,32,127 -> 59,36,127: Id #1040:Path Goal Performance:Station Mill Building at 62,32,127
+loop path fail: <same square> human,62,24,127 -> 62,26,127: Id #3428:Path Goal Performance:Station Mill Building at 63,33,127
+loop path fail: <same square> goblin,62,28,127 -> 59,30,127: Id #11717:Path Goal Performance:Station Mill Building at 62,32,127
+loop path fail: <same square> human,59,22,127 -> 61,22,127: Id #5659:Path Goal Performance:Station Mill Building at 48,36,128
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *peach wood bin <#8>*
+loop path fail: <same square> human,62,30,127 -> 65,25,127: Id #987:Path Goal Seek Station:Station Mill Building at 64,26,127
+path fail: naked mole dog,113,67,45 -> 115,67,47: Id #17209:Path Goal Seek Station Flood:Station Owner at 115,67,47
+path fail: naked mole dog,114,67,39 -> 113,66,45: Id #17447:Path Goal Seek Station Flood:Station Owner at 113,66,45
+path fail: naked mole dog,113,67,45 -> 114,66,47: Id #17223:Path Goal Seek Station Flood:Station Owner at 114,66,47
+loop path fail: <same square> human,63,33,127 -> 63,36,127: Id #1018:Path Goal Performance:Station Mill Building at 62,35,127
+loop path fail: <same square> elf,65,33,127 -> 64,32,127: Id #3445:Path Goal Performance:Station Mill Building at 46,36,128
+loop path fail: <same square> human,63,23,127 -> 63,22,127: Id #4990:Path Goal Performance:Station Mill Building at 60,23,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tin bars
+loop path fail: <same square> human,60,34,127 -> 60,35,127: Id #6156:Path Goal Performance:Station Mill Building at 63,27,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+path fail: naked mole dog,113,67,45 -> 116,67,47: Id #17210:Path Goal Seek Station Flood:Station Owner at 116,67,47
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fine pewter bars
+loop path fail: <same square> human,59,33,127 -> 57,35,127: Id #5659:Path Goal Performance:Station Mill Building at 45,35,128
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tin bars
+loop path fail: <same square> human,58,27,127 -> 58,26,127: Id #3431:Path Goal Performance:Station Mill Building at 63,26,127
+loop path fail: <same square> human,57,30,127 -> 61,24,127: Id #987:Path Goal Performance:Station Mill Building at 64,26,127
+loop path fail: <same square> human,59,31,127 -> 58,33,127: Id #1040:Path Goal Performance:Station Mill Building at 62,32,127
+loop path fail: <same square> human,58,25,127 -> 57,34,127: Id #939:Path Goal Performance:Station Mill Building at 43,35,128
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silver bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, electrum bars
+loop path fail: <same square> human,59,30,127 -> 59,27,127: Id #939:Path Goal Performance:Station Mill Building at 43,46,128
+DOUBLE TAGGED ITEM: Store Item in Stockpile, black bronze bars
+loop path fail: <same square> human,59,33,127 -> 58,34,127: Id #4999:Path Goal Performance:Station Mill Building at 64,33,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, electrum bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fine pewter bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fine pewter bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, schist blocks
+loop path fail: <same square> elf,59,32,127 -> 59,26,127: Id #3426:Path Goal Performance:Station Mill Building at 64,24,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rose gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gneiss blocks
+loop path fail: <same square> elf,63,33,127 -> 64,33,127: Id #11999:Path Goal Performance:Station Mill Building at 58,28,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+loop path fail: <same square> human,62,35,127 -> 64,37,127: Id #4999:Path Goal Performance:Station Mill Building at 64,33,127
+path fail: naked mole dog,114,66,47 -> 117,69,47: Id #17208:Path Goal Flee from Opponent:Station None at 109,65,48
+path fail: dwarf,Fell Tree,77,12,136 -> 81,10,136: Id #16674:Path Goal Chop:Station Mill Building at 66,31,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, adamantine wafers
+path fail: olm man,42,71,41 -> 42,70,41: Id #15894:Path Goal Conflict Defense:Station None at 44,69,41
+path fail: olm woman,44,73,41 -> 43,77,41: Id #15897:Path Goal Flee Terrain:Station None at 42,71,41
+loop path fail: <same square> elf,56,33,127 -> 62,26,127: Id #11999:Path Goal Performance:Station Mill Building at 58,28,127
+path fail: troglodyte,92,56,39 -> 86,49,38: Id #17744:Path Goal Owner:Station Owner at 86,49,38
+path fail: troglodyte,125,14,38 -> 135,5,50: Id #17744:Path Goal Flee Terrain:Station Head for Edge at 117,0,40
+loop path fail: <same square> elf,61,25,127 -> 62,23,127: Id #3438:Path Goal Performance:Station Mill Building at 62,26,127
+path fail: giant cave swallow,53,71,39 -> 53,72,38: Id #17863:Path Goal Marauder Mill:Station Marauder Mill at 53,72,38
+path fail: draltha,118,52,39 -> 122,56,48: Id #17912:Path Goal Seek Station Flood:Station Marauder Mill at 122,56,48
+path fail: draltha,137,57,54 -> 143,65,58: Id #17913:Path Goal Flee from Opponent:Station Head for Edge at 143,83,58
+path fail: dwarf,Construct Building,36,25,136 -> 36,24,136: Id #15886:Path Goal Main Job Building:Station Mill Building at 49,61,128
+path fail: troglodyte,130,60,48 -> 143,61,58: Id #17953:Path Goal Flee from Opponent:Station Marauder Mill at 124,68,48
+path fail: troglodyte,133,58,51 -> 143,68,58: Id #17955:Path Goal Flee Terrain:Station Owner at 131,61,49
+path fail: dwarf,33,18,136 -> 33,17,138: Id #16434:Path Goal Chase Opponent Flood:Station None at 38,20,136
+path fail: naked mole dog,132,14,38 -> 133,13,40: Id #18089:Path Goal Marauder Mill:Station Marauder Mill at 133,13,40
+path fail: human,Pickup Equipment,66,46,135 -> 83,30,135: Id #4647:Path Goal Grab Uniform:Station Mill Building at 47,62,128
+path fail: dwarf,Plant Seeds,47,32,133 -> 43,27,135: Id #16362:Path Goal Work at Building:Station Mill Building at 56,22,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rat Remains
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+loop path fail: <same square> goblin,56,17,136 -> 49,17,136: Id #18890:Path Goal Seek Station:Station Commander at 50,20,136
+loop path fail: <same square> crundle,15,29,12 -> 19,31,12: Id #19065:Path Goal Seek Station:Station Owner at 16,31,12
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fine pewter bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fine pewter bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+Site Map:  Extra Item Occupancy 78,19,134
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silver bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silver bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+path fail: dwarf,Remove Construction,41,23,134 -> 42,18,135: Id #16088:Path Goal Remove Construction:Station Mill Building at 66,34,127
+path fail: elf,Plant Seeds,41,27,134 -> 45,7,135: Id #10736:Path Goal Work at Building:Station Mill Building at 48,36,128
+DOUBLE TAGGED ITEM: Store Item in Stockpile, green glass blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, green glass blocks
+path fail: dwarf,Dig Channel,56,30,128 -> 45,17,134: Id #19297:Path Goal Dig:Station Mill Building at 57,61,128
+path fail: dwarf,Pickup Equipment,42,23,133 -> 83,30,135: Id #16088:Path Goal Grab Uniform:Station Mill Building at 47,60,128
+path fail: dwarf,Pickup Equipment,42,22,133 -> 83,30,135: Id #16088:Path Goal Grab Uniform:Station Mill Building at 47,60,128
+path fail: elf,Harvest Plants,47,25,133 -> 37,6,135: Id #12354:Path Goal Work at Building:Station Mill Building at 60,25,127
+path fail: elf,Plant Seeds,46,21,133 -> 37,14,135: Id #12352:Path Goal Grab Job Resources:Station Mill Building at 96,58,134
+path fail: dwarf,Construct Building,39,28,133 -> 51,17,128: Id #17225:Path Goal Drop Off Job Items:Station Mill Building at 57,61,128
+path fail: human,Harvest Plants,49,23,133 -> 47,7,135: Id #965:Path Goal Work at Building:Station Mill Building at 52,56,128
+path fail: dwarf,42,17,133 -> 90,65,134: Id #18789:Path Goal Socialize:Station Mill Building at 91,60,134
+path fail: human,Plant Seeds,44,20,133 -> 37,14,135: Id #9783:Path Goal Grab Job Resources:Station Mill Building at 61,30,127
+path fail: goblin,Construct Building,39,33,134 -> 42,29,134: Id #10726:Path Goal Work at Building:Station Mill Building at 65,35,127
+path fail: dwarf,Construct Building,33,33,134 -> 42,29,134: Id #18793:Path Goal Work at Building:Station Mill Building at 57,58,128
+loop path fail: <same square> elf,Sleep,50,31,133 -> 34,82,108: Id #10736:Path Goal Sleep Bed:Station None at 45,26,135
+DOUBLE TAGGED ITEM: Store Item in Stockpile, green glass blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, green glass blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper bars
+path fail: cat,67,31,137 -> 66,31,138: Id #18788:Path Goal Seek Station:Station Owner at 67,31,137
+path fail: human,Construct Building,58,58,10 -> 68,31,138: Id #3420:Path Goal Main Job Building:Station Mill Building at 63,23,127
+path fail: dwarf,Construct Building,53,59,67 -> 66,31,138: Id #19134:Path Goal Main Job Building:Station Mill Building at 34,54,128
+loop path fail: <same square> dwarf,Store Item in Stockpile,21,60,128 -> 64,20,128: Id #18785:Path Goal Store Item:Station Mill Building at 66,34,127
+path fail: goblin,66,45,135 -> 64,45,135: Id #12356:Path Goal Seek Station:Station Squad Move at 67,42,135
+path fail: dwarf,Pickup Equipment,52,30,128 -> 16,46,136: Id #19287:Path Goal Grab Uniform:Station Mill Building at 66,28,127
+path fail: dwarf,Fish,61,45,128 -> 110,115,135: Id #18789:Path Goal Start Fish:Station Mill Building at 92,66,134
+path fail: dwarf,Pickup Equipment,72,43,135 -> 104,90,136: Id #18796:Path Goal Grab Uniform:Station Mill Building at 36,56,128
+path fail: dwarf,Pickup Equipment,72,43,135 -> 16,46,136: Id #18797:Path Goal Grab Uniform:Station Mill Building at 65,24,127
+path fail: dwarf,Pickup Equipment,54,59,87 -> 64,46,135: Id #16088:Path Goal Grab Uniform:Station Mill Building at 65,29,127
+DOUBLE TAGGED ITEM: Store Item in Stockpile, XX(drunian leather right glove)XX
+Site Map:  Extra Item Occupancy 88,19,134
+DOUBLE TAGGED ITEM: Store Item in Stockpile, copper blocks
+path fail: dwarf,Construct Building,61,60,126 -> 53,32,127: Id #18783:Path Goal Main Job Building:Station Mill Building at 83,57,134
+path fail: human,Pickup Equipment,72,43,135 -> 14,0,135: Id #3420:Path Goal Grab Uniform:Station Squad Move at 60,34,134
+path fail: human,Pickup Equipment,72,43,135 -> 14,0,135: Id #3420:Path Goal Grab Uniform:Station Squad Move at 60,34,134
+path fail: beak dog,70,45,135 -> 73,46,135: Id #20492:Path Goal Chase Opponent Flood:Station Maraud Target at 73,41,135
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: goblin,35,32,135 -> 35,22,136: Id #10348:Path Goal Seek Station Flood:Station Marauder Mill at 35,22,136
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Site Map:  Extra Item Occupancy 88,19,134
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gabbro
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gabbro
+path fail: giant cave toad,88,3,39 -> 88,3,40: Id #21019:Path Goal Marauder Mill:Station None at 88,3,39
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *hazel wood bin <#4>*
+path fail: troglodyte,9,113,38 -> 11,114,43: Id #21055:Path Goal Seek Station Flood:Station Marauder Mill at 11,114,43
+path fail: troglodyte,8,114,39 -> 5,133,39: Id #21055:Path Goal Flee Terrain:Station Marauder Mill at 11,114,43
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold bars
+DOUBLE TAGGED ITEM: Store Item in Stockpile, pig tails [3]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [4]
+path fail: haunt of snow,29,63,14 -> 30,63,15: Id #21435:Path Goal Attack Building:Station Owner at 24,76,5
+path fail: white fiend,29,63,14 -> 30,63,15: Id #21379:Path Goal Attack Building:Station Owner at 24,66,14
+path fail: white fiend,29,63,14 -> 30,63,15: Id #21376:Path Goal Attack Building:Station Owner at 24,66,14
+path fail: white fiend,29,63,14 -> 30,63,15: Id #21375:Path Goal Attack Building:Station Marauder Mill at 26,75,14
+path fail: dwarf,Pickup Equipment,22,74,16 -> 34,74,15: Id #17338:Path Goal Grab Uniform:Station Mill Building at 56,28,127
+path fail: dwarf,Pickup Equipment,38,71,16 -> 34,74,15: Id #19138:Path Goal Grab Uniform:Station Mill Building at 51,59,128
+path fail: dwarf,Pickup Equipment,22,74,16 -> 34,74,15: Id #19733:Path Goal Grab Uniform:Station Mill Building at 59,24,127
+path fail: dwarf,Pickup Equipment,56,59,108 -> 34,76,15: Id #18767:Path Goal Grab Uniform:Station Mill Building at 50,58,128
+path fail: dwarf,Pickup Equipment,53,59,56 -> 34,76,15: Id #18773:Path Goal Grab Uniform:Station Mill Building at 60,34,127
+path fail: dwarf,Pickup Equipment,51,71,16 -> 23,68,15: Id #18781:Path Goal Grab Uniform:Station Mill Building at 55,58,128
+path fail: dwarf,Pickup Equipment,54,59,107 -> 34,76,15: Id #16677:Path Goal Grab Uniform:Station Mill Building at 52,30,127
+path fail: dwarf,Pickup Equipment,22,74,16 -> 34,76,15: Id #19735:Path Goal Grab Uniform:Station Squad Move at 49,45,15
+path fail: fire phantom,23,67,15 -> 26,66,15: Id #21354:Path Goal Seek Station:Station Owner at 28,66,15
+loop path fail: <same square> goblin,10,10,135 -> 16,15,136: Id #21584:Path Goal Seek Station:Station Commander at 15,23,135
+loop path fail: <same square> goblin,41,38,136 -> 44,38,136: Id #21531:Path Goal Seek Station:Station Commander at 46,40,136
+path fail: troll,62,48,133 -> 63,45,128: Id #21653:Path Goal Attack Building:Station Commander at 8,10,135
+path fail: goblin,70,27,135 -> 70,34,140: Id #21581:Path Goal Chase Opponent Flood:Station Commander at 80,26,135
+path fail: goblin,70,27,135 -> 71,34,140: Id #21580:Path Goal Chase Opponent Flood:Station Commander at 73,28,135
+path fail: beak dog,83,18,127 -> 87,19,128: Id #20177:Path Goal Marauder Mill:Station None at 83,18,127
+path fail: goblin,83,18,127 -> 87,21,128: Id #20109:Path Goal Marauder Mill:Station None at 83,18,127
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: goblin,83,18,127 -> 88,21,122: Id #20109:Path Goal Marauder Mill:Station None at 83,18,127
+path fail: troll,83,18,127 -> 89,21,122: Id #20868:Path Goal Marauder Mill:Station None at 83,18,127
+path fail: troll,82,18,122 -> 79,18,128: Id #18614:Path Goal Chase Opponent Flood:Station Marauder Mill at 90,17,122
+path fail: goblin,83,18,127 -> 89,21,122: Id #17795:Path Goal Marauder Mill:Station None at 83,18,127
+path fail: beak dog,83,18,127 -> 87,19,128: Id #20833:Path Goal Marauder Mill:Station None at 83,18,127
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: dwarf,Clean,61,71,134 -> 78,54,134: Id #20650:Path Goal Clean:Station Mill Building at 87,60,134
+path fail: human,64,45,135 -> 86,60,134: Id #2041:Path Goal Seek Station:Station None at 61,46,135
+path fail: dwarf,Butcher an Animal,80,71,134 -> 50,50,136: Id #20952:Path Goal Grab Job Resources:Station Mill Building at 93,58,134
+path fail: human,78,58,134 -> 42,18,135: Id #3422:Path Goal Seek Station:Station None at 78,59,134
+path fail: cat,61,38,128 -> 47,64,136: Id #21726:Path Goal Seek Station:Station None at 60,40,128
+path fail: draltha,132,14,38 -> 132,15,40: Id #21785:Path Goal Marauder Mill:Station Marauder Mill at 132,15,40
+path fail: goblin,64,56,133 -> 67,59,133: Id #21511:Path Goal Flee Terrain:Station Marauder Mill at 65,64,133
+path fail: beak dog,62,66,133 -> 62,55,133: Id #21625:Path Goal Marauder Mill:Station Marauder Mill at 62,55,133
+path fail: goblin,63,60,133 -> 67,57,133: Id #10263:Path Goal Flee Terrain:Station Marauder Mill at 62,50,133
+path fail: beak dog,67,57,133 -> 65,57,133: Id #21633:Path Goal Flee Terrain:Station Marauder Mill at 67,64,133
+path fail: beak dog,62,52,133 -> 67,61,133: Id #21624:Path Goal Flee Terrain:Station Marauder Mill at 61,53,133
+path fail: beak dog,64,52,133 -> 67,60,133: Id #21624:Path Goal Flee Terrain:Station Marauder Mill at 63,51,133
+path fail: beak dog,62,52,133 -> 67,61,133: Id #21624:Path Goal Flee Terrain:Station Marauder Mill at 61,52,133
