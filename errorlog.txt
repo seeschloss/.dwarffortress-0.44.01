@@ -1157,3 +1157,370 @@ path fail: beak dog,67,57,133 -> 65,57,133: Id #21633:Path Goal Flee Terrain:Sta
 path fail: beak dog,62,52,133 -> 67,61,133: Id #21624:Path Goal Flee Terrain:Station Marauder Mill at 61,53,133
 path fail: beak dog,64,52,133 -> 67,60,133: Id #21624:Path Goal Flee Terrain:Station Marauder Mill at 63,51,133
 path fail: beak dog,62,52,133 -> 67,61,133: Id #21624:Path Goal Flee Terrain:Station Marauder Mill at 61,52,133
+path fail: goblin,61,111,180 -> 61,107,179: Id #11927:Path Goal Chase Opponent Flood:Station Mill Building at 51,48,174
+path fail: forgotten beast,65,112,179 -> 63,112,178: Id #12639:Path Goal Chase Opponent Flood:Station None at 61,107,179
+path fail: human,65,112,180 -> 61,111,178: Id #11358:Path Goal Chase Opponent Flood:Station None at 59,120,178
+path fail: human,63,111,179 -> 62,109,178: Id #4381:Path Goal Chase Opponent Flood:Station Mill Anywhere at 156,81,178
+path fail: human,61,114,179 -> 62,111,178: Id #973:Path Goal Chase Opponent Flood:Station Mill Anywhere at 24,77,179
+path fail: elf,60,112,179 -> 62,109,178: Id #176:Path Goal Chase Opponent Flood:Station Mill Anywhere at 149,165,177
+path fail: dwarf,Dig Channel,64,71,116 -> 59,64,100: Id #21898:Path Goal Dig:Station Mill Building at 69,62,116
+path fail: dwarf,Dig Channel,66,46,98 -> 67,45,99: Id #21899:Path Goal Dig:Station Mill Building at 68,71,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+path fail: dwarf,91,85,128 -> 95,81,125: Id #21899:Path Goal Flee Terrain:Station Mill Building at 73,64,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+path fail: dwarf,Dig Channel,81,84,128 -> 82,86,128: Id #16431:Path Goal Dig:Station Mill Building at 73,65,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (leopard leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (naked mole dog leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (naked mole dog leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+path fail: dwarf,Construct Building,83,80,128 -> 81,84,128: Id #18792:Path Goal Main Job Building:Station Mill Building at 67,69,116
+path fail: dwarf,Construct Building,83,80,128 -> 82,81,128: Id #16431:Path Goal Main Job Building:Station Mill Building at 67,69,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, cinnabar blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (alpaca wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (dog leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, black sand Bag (pig tail)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (naked mole dog leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðblack sand Bag (pig tail)ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (black sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, black sand Bag (pig tail)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, black sand Bag (pig tail)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, black sand Bag (pig tail)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðblack sand Bag (pig tail)ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+loop path fail: <same square> dwarf,Store Item in Barrel,84,60,116 -> 80,67,116: Id #20313:Path Goal Seek Item for Storage:Station Mill Building at 71,63,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+path fail: dwarf,Construct Building,89,77,116 -> 81,87,129: Id #20950:Path Goal Main Job Building:Station Mill Building at 78,68,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, stoneware bricks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðblack sand Bag (pig tail)ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+loop path fail: <same square> dwarf,Store Item in Bag,93,77,116 -> 88,74,125: Id #21844:Path Goal Seek Item for Storage:Station Mill Building at 76,59,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, fire clay
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+loop path fail: <same square> dwarf,Drink,84,60,116 -> 82,67,116: Id #21900:Path Goal Grab Goblet:Station Mill Building at 67,71,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðblack sand Bag (pig tail)ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, mica blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðblack sand Bag (pig tail)ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+Site Map:  Extra Item Occupancy 86,70,115
+Site Map:  Extra Item Occupancy 86,71,115
+Site Map:  Extra Item Occupancy 86,72,115
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+path fail: goblin,93,78,128 -> 93,82,127: Id #11276:Path Goal Seek Station Flood:Station Marauder Mill at 93,82,127
+loop path fail: <same square> dwarf,68,61,116 -> 68,58,116: Id #19473:Path Goal Performance:Station Mill Building at 67,64,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+loop path fail: <same square> dwarf,75,63,116 -> 72,58,116: Id #22567:Path Goal Performance:Station Mill Building at 72,66,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+loop path fail: <same square> dwarf,Drink,87,77,116 -> 82,68,116: Id #19291:Path Goal Grab Goblet:Station Mill Building at 78,61,116
+loop path fail: <same square> dwarf,Drink,86,77,116 -> 82,68,116: Id #19291:Path Goal Grab Goblet:Station Mill Building at 78,61,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, black sand Bag (pig tail)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðblack sand Bag (pig tail)ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, black sand Bag (pig tail)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðblack sand Bag (pig tail)ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+path fail: dwarf,Return Kill,122,33,128 -> 126,117,12: Id #22821:Path Goal Grab Kill:Station Mill Building at 77,70,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+path fail: dwarf,69,41,126 -> 75,65,116: Id #19736:Path Goal Seek Station:Station None at 69,41,126
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+path fail: dwarf,66,43,126 -> 70,57,116: Id #21016:Path Goal Seek Station:Station None at 66,43,126
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -black sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +black sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *black sand Bag (pig tail)*
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: sea lamprey,142,78,139 -> 128,82,139: Id #1739:Path Goal Flee from Opponent:Station Marauder Mill at 91,89,139
+path fail: sea lamprey,143,80,139 -> 129,82,139: Id #1739:Path Goal Flee from Opponent:Station None at 142,79,139
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+path fail: elk bird,27,124,60 -> 26,123,63: Id #1807:Path Goal Marauder Mill:Station None at 27,124,60
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, A Humble Offering To Gravellengths
+path fail: giant flying squirrel,140,78,140 -> 141,78,139: Id #1950:Path Goal Owner:Station Owner at 141,78,139
+path fail: dwarf,53,53,130 -> 58,53,130: Id #1710:Path Goal Seek Station:Station None at 58,53,130
+path fail: dwarf,50,53,130 -> 58,53,130: Id #1710:Path Goal Seek Station Flood:Station None at 58,53,130
+path fail: dwarf,44,53,130 -> 49,53,130: Id #1710:Path Goal Seek Station:Station None at 49,53,130
+path fail: dwarf,45,53,130 -> 49,53,130: Id #1710:Path Goal Seek Station:Station None at 49,53,130
+path fail: dwarf,45,53,130 -> 49,53,130: Id #1710:Path Goal Seek Station:Station None at 49,53,130
+path fail: dwarf,Drink,143,78,139 -> 85,92,140: Id #916:Path Goal Start Water Job Drink Area:Station Mill Building at 39,55,131
+loop path fail: <same square> dog,42,55,131 -> 43,55,131: Id #1877:Path Goal Seek Station:Station Owner at 41,57,131
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+DOUBLE TAGGED ITEM: Store Item in Stockpile, marble mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, sand pear wood blocks
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *dolomite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, marble mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -dolomite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðdolomite mugð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, dolomite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðdolomite mugð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *dolomite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +sand pear wood bin+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðsand pear wood binð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðsand pear wood binð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +dolomite table+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *ginkgo wood bin*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand pear wood bin-
+path fail: giant gray squirrel,140,78,140 -> 143,81,139: Id #2243:Path Goal Seek Station Flood:Station None at 143,81,139
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -dolomite table-
+path fail: dwarf,Construct rock Throne,59,42,130 -> 78,42,136: Id #1085:Path Goal Work at Building:Station Mill Building at 49,56,131
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -ginkgo wood barrel-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðsand pear wood barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +sand pear wood barrel+
+loop path fail: <same square> human,33,59,131 -> 32,59,131: Id #483:Path Goal Performance:Station Mill Building at 33,56,131
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðsand pear wood barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *larch barrel*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðdolomite throneð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðginkgo wood barrelð
+loop path fail: <same square> dwarf,37,54,131 -> 36,53,131: Id #891:Path Goal Performance:Station Mill Building at 46,57,131
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpecan wood barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðdolomite throneð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *pecan wood barrel*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (bobcat leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet spawn
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw shad,  [3]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw mussel [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw steelhead trout,  [5]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw mussel [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw salmon,  [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw mussel [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw shad, 
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw salmon,  [5]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw steelhead trout,  [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (giant cave spider silk))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (alpaca wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (wombat leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (giant cave spider silk))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +sand Bag (pig tail)+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (alpaca wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (alpaca wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (turkey leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-sand Bag (pig tail)-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (kiwi leather))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (sheep wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (cave spider silk))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-sand Bag (alpaca wool)-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand Bag (pig tail)-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (cave spider silk))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (+®+sand Bag (giant cave spider silk)+¯+)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-sand Bag (dingo leather)-)
+loop path fail: <same square> goblin,33,57,131 -> 26,53,131: Id #919:Path Goal Performance:Station Mill Building at 35,59,131
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: goblin,143,81,139 -> 143,80,139: Id #512:Path Goal Seek Station Flood:Station None at 143,80,139
+loop path fail: <same square> goblin,28,56,131 -> 23,53,131: Id #1196:Path Goal Seek Station:Station Mill Building at 24,53,131
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (sheep wool))
+path fail: goblin,142,79,139 -> 143,81,139: Id #512:Path Goal Seek Station Flood:Station None at 143,81,139
+path fail: goblin,143,79,139 -> 143,80,139: Id #512:Path Goal Seek Station Flood:Station None at 143,80,139
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (*®-sand Bag (turkey leather)-¯*)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (+®-sand Bag (pig tail)-¯+)
+path fail: dwarf,Dig Channel,50,114,11 -> 45,91,50: Id #2183:Path Goal Dig:Station Mill Building at 47,58,131
+path fail: dwarf,Dig Channel,45,91,8 -> 45,91,18: Id #2185:Path Goal Dig:Station Mill Building at 49,55,131
+path fail: dwarf,Dig Channel,59,114,129 -> 45,91,18: Id #2186:Path Goal Dig:Station Mill Building at 27,56,131
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-®-sand Bag (giant cave spider silk)-¯-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (llama wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand Bag (pig tail)-
+path fail: dwarf,Harvest Plants,95,127,12 -> 40,40,136: Id #1367:Path Goal Work at Building:Station Mill Building at 48,55,131
