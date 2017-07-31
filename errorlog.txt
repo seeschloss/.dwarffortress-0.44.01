@@ -1524,3 +1524,353 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, (-®-sand Bag (giant cave spider sil
 DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (llama wool))
 DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand Bag (pig tail)-
 path fail: dwarf,Harvest Plants,95,127,12 -> 40,40,136: Id #1367:Path Goal Work at Building:Station Mill Building at 48,55,131
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Site Map:  Extra Item Occupancy 29,13,139
+path fail: dwarf,Pickup Equipment,46,91,111 -> 45,91,108: Id #2072:Path Goal Grab Uniform:Station Mill Building at 36,63,131
+DOUBLE TAGGED ITEM: Store Item in Stockpile, marble mug
+path fail: dwarf,46,92,97 -> 56,101,113: Id #2186:Path Goal Flee Terrain:Station None at 46,92,97
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðmarble mugð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold goblet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold goblet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *gold goblet*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-sand Bag (alpaca wool)-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðgold gobletð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold goblet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-®-sand Bag (giant cave spider silk)-¯-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +gold goblet+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðmarble mugð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðgold gobletð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold goblet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *gold goblet*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (pig tail))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +gold goblet+
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-sand Bag (sheep wool)-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold goblet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +gold goblet+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *dolomite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (-sand Bag (yak leather)-)
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (alpaca wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (sand Bag (sheep wool))
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -dolomite mug-
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+path fail: dwarf,Construct Building,55,48,89 -> 51,48,19: Id #22828:Path Goal Drop Off Job Items:Station Mill Building at 101,49,167
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tetrahedrite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tetrahedrite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tetrahedrite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tetrahedrite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, petrified wood mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, petrified wood mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [3]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, goose egg [7]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+path fail: dwarf,Eat,60,42,21 -> 38,30,135: Id #22633:Path Goal Start Eat Job:Station Mill Building at 60,42,21
+path fail: dwarf,Eat,60,42,21 -> 38,30,135: Id #22633:Path Goal Start Eat Job:Station Mill Building at 60,42,21
+path fail: dwarf,Eat,60,43,21 -> 39,31,135: Id #22633:Path Goal Start Eat Job:Station Mill Building at 60,42,21
+path fail: dwarf,Eat,60,43,21 -> 39,31,135: Id #22633:Path Goal Start Eat Job:Station Mill Building at 60,42,21
+path fail: dwarf,Eat,56,43,21 -> 39,30,135: Id #23015:Path Goal Start Eat Job:Station Mill Building at 56,45,21
+path fail: dwarf,Eat,95,49,167 -> 39,30,135: Id #21289:Path Goal Start Eat Job:Station Mill Building at 93,52,167
+path fail: dwarf,Eat,95,49,167 -> 39,30,135: Id #21289:Path Goal Start Eat Job:Station Mill Building at 93,52,167
+path fail: dwarf,Eat,102,52,155 -> 40,30,135: Id #19429:Path Goal Start Eat Job:Station Mill Building at 58,42,21
+path fail: dwarf,Eat,102,52,155 -> 40,30,135: Id #19429:Path Goal Start Eat Job:Station Mill Building at 58,42,21
+path fail: dwarf,Eat,67,46,10 -> 40,31,135: Id #22818:Path Goal Start Eat Job:Station Mill Building at 51,25,11
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, tetrahedrite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðplum wood hatch coverð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ashen barrel
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðorthoclase coffinð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðashen tableð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +bayberry wood table+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, sphalerite
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðplum wood bucketð
+path fail: crundle,68,66,21 -> 69,67,20: Id #23953:Path Goal Seek Station Flood:Station Marauder Mill at 69,67,20
+path fail: crundle,56,60,21 -> 55,60,20: Id #23954:Path Goal Seek Station Flood:Station Owner at 55,60,20
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold cabinet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, gold armor stand
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðwillow barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, blueberries [3]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, long yam plant
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [3]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, cave wheat
+DOUBLE TAGGED ITEM: Store Item in Stockpile, prickle berry seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, blueberries [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [2]
+path fail: mud man,87,134,21 -> 89,133,20: Id #24081:Path Goal Seek Station Flood:Station Marauder Mill at 89,133,20
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet spawn
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, blueberries [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, prickle berry seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet spawn
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet spawn
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðapricot wood bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, prickle berry seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, prickle berry seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, prickle berry seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, barley seeds
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+path fail: crundle,102,53,21 -> 105,60,20: Id #24161:Path Goal Seek Station Flood:Station Marauder Mill at 105,60,20
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+path fail: dwarf,Return Kill,104,101,177 -> 18,20,125: Id #24190:Path Goal Grab Kill:Station Mill Building at 79,51,21
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, Asteshorrun
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +diorite mug+
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -petrified wood mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, diorite mug
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *diorite mug*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -diorite mug-
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: human,74,88,146 -> 75,88,146: Id #10795:Path Goal Seek Station:Station Commander at 76,89,146
