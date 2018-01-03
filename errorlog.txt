@@ -1879,3 +1879,13 @@ Unrecognized Announcement Token: TRAVEL_ADVISORY
 DOUBLE TAGGED ITEM: Store Item in Stockpile, lignite
 path fail: elk bird,58,91,140 -> 60,93,144: Id #26803:Path Goal Marauder Mill:Station None at 58,91,140
 path fail: yak bull,30,76,182 -> 45,69,181: Id #26911:Path Goal Seek Station Flood:Station None at 45,69,181
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
