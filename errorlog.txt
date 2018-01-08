@@ -1891,3 +1891,21 @@ Unrecognized Announcement Token: TRAVEL_ADVISORY
 Unrecognized Announcement Token: TRAVEL_ADVISORY
 Unrecognized Announcement Token: TRAVEL_ADVISORY
 Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: yak cow,30,76,182 -> 51,69,181: Id #27515:Path Goal Seek Station Flood:Station None at 51,69,181
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+path fail: dwarf,Construct Building,70,40,183 -> 68,41,183: Id #16137:Path Goal Main Job Building:Station Mill Building at 102,33,23
+path fail: dwarf,Construct Building,94,38,104 -> 90,56,23: Id #26677:Path Goal Main Job Building:Station Mill Building at 83,64,178
+path fail: dwarf,Clean,94,38,42 -> 89,55,23: Id #15649:Path Goal Clean:Station Mill Building at 81,65,178
+path fail: human,Harvest Plants,50,58,181 -> 54,64,181: Id #5333:Path Goal Work at Building:Station Mill Building at 84,58,178
+path fail: dwarf,Drink,50,58,181 -> 57,69,181: Id #959:Path Goal Seek Drink Item:Station Mill Building at 80,62,178
+Unrecognized Announcement Token: TRAVEL_ADVISORY
