@@ -1912,3 +1912,12 @@ Unrecognized Announcement Token: TRAVEL_ADVISORY
 Unrecognized Announcement Token: TRAVEL_ADVISORY
 loop path fail: <same square> dwarf,87,66,178 -> 88,66,178: Id #1853:Path Goal Performance:Station Mill Building at 85,57,178
 path fail: yak bull,30,76,182 -> 45,69,181: Id #27780:Path Goal Seek Station Flood:Station None at 45,69,181
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
