@@ -1921,3 +1921,6 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+loop path fail: <same square> human,85,69,178 -> 87,63,178: Id #7697:Path Goal Performance:Station Mill Building at 86,57,178
+path fail: dwarf,Pickup Equipment,100,58,179 -> 9,18,180: Id #26672:Path Goal Grab Uniform:Station Mill Building at 85,63,178
