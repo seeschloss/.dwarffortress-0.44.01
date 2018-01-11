@@ -1930,3 +1930,15 @@ Unrecognized Announcement Token: TRAVEL_ADVISORY
 DOUBLE TAGGED ITEM: Store Item in Stockpile, -silver goblet-
 DOUBLE TAGGED ITEM: Store Item in Stockpile, silver goblet
 Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðsilver gobletð
+loop path fail: <same square> human,84,59,178 -> 81,67,178: Id #10916:Path Goal Performance:Station Mill Building at 105,39,23
+loop path fail: <same square> dwarf,80,62,178 -> 79,62,178: Id #11569:Path Goal Performance:Station Mill Building at 89,64,178
+loop path fail: <same square> dwarf,Drink,89,62,178 -> 98,59,178: Id #1229:Path Goal Grab Goblet:Station Mill Building at 82,60,178
+loop path fail: <same square> elf,81,61,178 -> 80,62,178: Id #10940:Path Goal Performance:Station Mill Building at 80,64,178
+path fail: yak cow,29,76,182 -> 45,69,181: Id #28377:Path Goal Seek Station Flood:Station None at 45,69,181
+loop path fail: <same square> elf,87,63,178 -> 88,63,178: Id #10938:Path Goal Performance:Station Mill Building at 109,33,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, adamantine wafers
+loop path fail: <same square> dwarf,86,66,178 -> 86,64,178: Id #11314:Path Goal Performance:Station Mill Building at 84,61,178
+loop path fail: <same square> human,82,66,178 -> 83,57,178: Id #4020:Path Goal Seek Station:Station Mill Building at 83,57,178
+loop path fail: <same square> crundle,8,134,65 -> 12,131,65: Id #28628:Path Goal Seek Station:Station Owner at 12,133,65
