@@ -1942,3 +1942,40 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, adamantine wafers
 loop path fail: <same square> dwarf,86,66,178 -> 86,64,178: Id #11314:Path Goal Performance:Station Mill Building at 84,61,178
 loop path fail: <same square> human,82,66,178 -> 83,57,178: Id #4020:Path Goal Seek Station:Station Mill Building at 83,57,178
 loop path fail: <same square> crundle,8,134,65 -> 12,131,65: Id #28628:Path Goal Seek Station:Station Owner at 12,133,65
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> human,78,59,178 -> 87,59,178: Id #13997:Path Goal Performance:Station Mill Building at 89,59,178
+DOUBLE TAGGED ITEM: Store Item in Stockpile, adamantine wafers
+DOUBLE TAGGED ITEM: Store Item in Stockpile, +lead goblet+
+loop path fail: <same square> dwarf,80,63,178 -> 79,57,178: Id #7961:Path Goal Performance:Station Mill Building at 86,57,178
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> human,87,60,178 -> 89,58,178: Id #11583:Path Goal Performance:Station Mill Building at 108,42,23
+path fail: dwarf,Forge adamantine breastplate,83,52,23 -> 80,47,23: Id #13930:Path Goal Grab Job Resources:Station Mill Building at 103,40,23
+loop path fail: <same square> dwarf,83,64,178 -> 89,60,178: Id #1094:Path Goal Performance:Station Mill Building at 87,60,178
+path fail: dwarf,Link a Building to Trigger,96,47,24 -> 81,48,23: Id #898:Path Goal Seek Target for Mechanism:Station Mill Building at 82,63,178
+path fail: dwarf,81,48,23 -> 86,49,24: Id #9782:Path Goal Flee Terrain:Station Mill Building at 101,38,23
+path fail: dwarf,Destroy Building,94,38,66 -> 80,48,23: Id #16218:Path Goal Work at Building:Station Mill Building at 100,33,23
+path fail: dwarf,Destroy Building,94,38,56 -> 80,48,23: Id #16218:Path Goal Work at Building:Station Mill Building at 100,33,23
+path fail: dwarf,Link a Building to Trigger,96,47,24 -> 81,48,23: Id #960:Path Goal Seek Target for Mechanism:Station Mill Building at 80,63,178
+loop path fail: <same square> dwarf,78,60,178 -> 80,57,178: Id #12665:Path Goal Performance:Station Mill Building at 85,57,178
+path fail: dwarf,Clean,94,39,24 -> 79,41,23: Id #26671:Path Goal Clean:Station Mill Building at 106,37,23
+path fail: dwarf,Clean,94,39,24 -> 79,41,23: Id #26671:Path Goal Clean:Station Mill Building at 106,37,23
+path fail: dwarf,Clean,94,45,23 -> 81,41,23: Id #14912:Path Goal Clean:Station Mill Building at 101,34,23
+loop path fail: <same square> human,86,61,178 -> 89,57,178: Id #7683:Path Goal Performance:Station Mill Building at 100,37,23
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+loop path fail: <same square> dwarf,Construct rock Hatch Cover,81,61,178 -> 70,61,178: Id #12069:Path Goal Grab Job Resources:Station Mill Building at 82,57,178
+loop path fail: <same square> dwarf,82,61,178 -> 88,62,178: Id #646:Path Goal Socialize:Station Mill Building at 87,65,178
+loop path fail: <same square> dwarf,87,60,178 -> 83,58,178: Id #15208:Path Goal Performance:Station Mill Building at 81,67,178
+loop path fail: <same square> dwarf,86,61,178 -> 89,61,178: Id #12871:Path Goal Performance:Station Mill Building at 109,34,23
