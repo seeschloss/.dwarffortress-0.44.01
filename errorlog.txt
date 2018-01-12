@@ -1979,3 +1979,14 @@ loop path fail: <same square> dwarf,Construct rock Hatch Cover,81,61,178 -> 70,6
 loop path fail: <same square> dwarf,82,61,178 -> 88,62,178: Id #646:Path Goal Socialize:Station Mill Building at 87,65,178
 loop path fail: <same square> dwarf,87,60,178 -> 83,58,178: Id #15208:Path Goal Performance:Station Mill Building at 81,67,178
 loop path fail: <same square> dwarf,86,61,178 -> 89,61,178: Id #12871:Path Goal Performance:Station Mill Building at 109,34,23
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+loop path fail: <same square> human,86,67,178 -> 80,63,178: Id #2323:Path Goal Performance:Station Mill Building at 85,61,178
+loop path fail: <same square> elf,82,63,178 -> 81,61,178: Id #4424:Path Goal Performance:Station Mill Building at 100,41,23
+loop path fail: <same square> elf,88,67,178 -> 86,67,178: Id #12800:Path Goal Performance:Station Mill Building at 81,59,178
+loop path fail: <same square> human,81,60,178 -> 79,57,178: Id #14995:Path Goal Socialize:Station Mill Building at 84,60,178
+loop path fail: <same square> human,79,67,178 -> 79,64,178: Id #13997:Path Goal Performance:Station Mill Building at 84,67,178
+path fail: jabberer,6,33,65 -> 9,35,66: Id #29065:Path Goal Marauder Mill:Station None at 6,33,65
+loop path fail: <same square> blue peahen,82,61,178 -> 79,58,178: Id #28697:Path Goal Seek Station:Station Owner at 84,68,178
+loop path fail: <same square> human,78,64,178 -> 81,63,178: Id #7697:Path Goal Performance:Station Mill Building at 84,57,178
+loop path fail: <same square> human,89,63,178 -> 85,63,178: Id #12928:Path Goal Performance:Station Mill Building at 80,66,178
+loop path fail: <same square> dwarf,81,58,178 -> 81,57,178: Id #13602:Path Goal Performance:Station Mill Building at 82,59,178
