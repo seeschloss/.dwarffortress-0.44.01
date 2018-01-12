@@ -100,3 +100,7 @@
 [2018-01-11T21:22:20+0100] DFHack 0.44.03-beta1-0-g677833ee on Linux; cwd md5: 27d1c9aa05; save: region2; SC_MAP_LOADED; game type DWARF_MAIN (0)
 [2018-01-11T22:41:00+0100] DFHack 0.44.03-beta1-0-g677833ee on Linux; cwd md5: 27d1c9aa05; save: region2; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
 [2018-01-11T22:41:00+0100] DFHack 0.44.03-beta1-0-g677833ee on Linux; cwd md5: 27d1c9aa05; save: region2; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2018-01-12T13:03:25+0100] DFHack 0.44.03-beta1-0-g677833ee on Linux; cwd md5: 27d1c9aa05; save: region2; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2018-01-12T13:03:25+0100] DFHack 0.44.03-beta1-0-g677833ee on Linux; cwd md5: 27d1c9aa05; save: region2; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2018-01-12T13:52:17+0100] DFHack 0.44.03-beta1-0-g677833ee on Linux; cwd md5: 27d1c9aa05; save: region2; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2018-01-12T13:52:17+0100] DFHack 0.44.03-beta1-0-g677833ee on Linux; cwd md5: 27d1c9aa05; save: region2; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)

@@ -1990,3 +1990,12 @@ loop path fail: <same square> blue peahen,82,61,178 -> 79,58,178: Id #28697:Path
 loop path fail: <same square> human,78,64,178 -> 81,63,178: Id #7697:Path Goal Performance:Station Mill Building at 84,57,178
 loop path fail: <same square> human,89,63,178 -> 85,63,178: Id #12928:Path Goal Performance:Station Mill Building at 80,66,178
 loop path fail: <same square> dwarf,81,58,178 -> 81,57,178: Id #13602:Path Goal Performance:Station Mill Building at 82,59,178
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: yak cow,30,76,182 -> 45,69,181: Id #29086:Path Goal Seek Station Flood:Station None at 45,69,181
