@@ -1999,3 +1999,23 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 path fail: yak cow,30,76,182 -> 45,69,181: Id #29086:Path Goal Seek Station Flood:Station None at 45,69,181
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,82,65,178 -> 83,61,178: Id #12069:Path Goal Performance:Station Mill Building at 102,34,23
+loop path fail: <same square> human,81,64,178 -> 79,66,178: Id #14995:Path Goal Performance:Station Mill Building at 84,60,178
+loop path fail: <same square> human,81,60,178 -> 79,58,178: Id #12928:Path Goal Performance:Station Mill Building at 92,22,22
+loop path fail: <same square> human,86,60,178 -> 82,59,178: Id #17627:Path Goal Performance:Station Mill Building at 89,60,178
+loop path fail: <same square> dwarf,86,64,178 -> 87,65,178: Id #15208:Path Goal Performance:Station Mill Building at 84,60,178
+loop path fail: <same square> dwarf,Drink,89,61,178 -> 79,112,182: Id #13930:Path Goal Start Water Job Drink Area:Station Squad Move at 117,36,181
+loop path fail: <same square> human,81,62,178 -> 83,58,178: Id #16095:Path Goal Performance:Station Mill Building at 79,57,178
+loop path fail: <same square> dwarf,85,61,178 -> 89,59,178: Id #16231:Path Goal Performance:Station Mill Building at 84,59,178
+loop path fail: <same square> dwarf,87,65,178 -> 87,67,178: Id #14983:Path Goal Performance:Station Mill Building at 80,68,178
+loop path fail: <same square> human,85,68,178 -> 83,57,178: Id #6319:Path Goal Performance:Station Mill Building at 88,58,178
+path fail: dwarf,Construct Building,87,66,64 -> 86,67,64: Id #14912:Path Goal Main Job Building:Station Mill Building at 97,24,22
+path fail: dwarf,Construct Building,87,67,64 -> 87,68,64: Id #12949:Path Goal Main Job Building:Station Mill Building at 89,64,178
