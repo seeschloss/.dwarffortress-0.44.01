@@ -2019,3 +2019,7 @@ loop path fail: <same square> dwarf,87,65,178 -> 87,67,178: Id #14983:Path Goal 
 loop path fail: <same square> human,85,68,178 -> 83,57,178: Id #6319:Path Goal Performance:Station Mill Building at 88,58,178
 path fail: dwarf,Construct Building,87,66,64 -> 86,67,64: Id #14912:Path Goal Main Job Building:Station Mill Building at 97,24,22
 path fail: dwarf,Construct Building,87,67,64 -> 87,68,64: Id #12949:Path Goal Main Job Building:Station Mill Building at 89,64,178
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+Unrecognized Announcement Token: TRAVEL_ADVISORY
