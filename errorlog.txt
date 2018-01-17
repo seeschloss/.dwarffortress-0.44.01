@@ -2364,3 +2364,7 @@ path fail: human,94,30,18 -> 140,120,57: Id #6482:Path Goal Seek Station:Station
 path fail: human,94,30,18 -> 142,121,57: Id #6482:Path Goal Seek Station:Station Mill Anywhere at 143,119,57
 path fail: human,94,30,18 -> 143,120,57: Id #6482:Path Goal Seek Station:Station Mill Anywhere at 143,119,57
 loop path fail: <same square> dwarf,83,60,178 -> 86,59,178: Id #11999:Path Goal Performance:Station Mill Building at 89,59,178
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+loop path fail: <same square> human,84,61,178 -> 85,60,178: Id #14995:Path Goal Performance:Station Mill Building at 79,59,178
