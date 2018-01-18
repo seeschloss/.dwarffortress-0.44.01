@@ -2380,3 +2380,13 @@ path fail: dwarf,84,14,8 -> 85,15,9: Id #11967:Path Goal Flee Terrain:Station No
 path fail: dwarf,85,13,7 -> 84,14,8: Id #11967:Path Goal Flee Terrain:Station None at 86,17,13
 path fail: dwarf,86,14,6 -> 86,13,7: Id #11967:Path Goal Flee Terrain:Station None at 86,17,13
 DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+path fail: dwarf,Clean,75,29,137 -> 77,32,137: Id #12069:Path Goal Clean:Station Mill Building at 73,67,178
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
