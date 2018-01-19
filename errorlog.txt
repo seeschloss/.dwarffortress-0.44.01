@@ -2390,3 +2390,7 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
 DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
 Unrecognized Announcement Token: TRAVEL_ADVISORY
 DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+loop path fail: <same square> human,84,67,178 -> 86,67,178: Id #7728:Path Goal Performance:Station Mill Building at 84,64,178
+loop path fail: <same square> dwarf,78,63,178 -> 86,65,178: Id #7876:Path Goal Performance:Station Mill Building at 84,57,178
+loop path fail: <same square> dwarf,81,69,178 -> 83,67,178: Id #12665:Path Goal Performance:Station Mill Building at 82,65,178
