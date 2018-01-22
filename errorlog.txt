@@ -11420,3 +11420,15 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
 DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
 loop path fail: <same square> dwarf,106,29,23 -> 109,26,23: Id #1206:Path Goal Performance:Station Mill Building at 100,43,23
 path fail: dwarf,100,51,23 -> 105,50,23: Id #13835:Path Goal Seek Station:Station Insane Mood at 106,50,23
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,85,58,178 -> 83,57,178: Id #12298:Path Goal Performance:Station Mill Building at 84,63,178
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
