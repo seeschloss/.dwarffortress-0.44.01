@@ -34,7 +34,7 @@ You can change the option below to ALWAYS and NO.  More restrictive world parame
 
 Use these options to remove features from the game.  Permitted values are YES and NO.  Removal might speed the game up in the case of temperature and weather.
 
-[TEMPERATURE:NO]
+[TEMPERATURE:YES]
 [WEATHER:NO]
 [ECONOMY:YES]
 [INVADERS:YES]
