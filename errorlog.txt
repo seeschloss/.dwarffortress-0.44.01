@@ -11506,3 +11506,48 @@ DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
 loop path fail: <same square> dwarf,108,30,23 -> 109,31,23: Id #12298:Path Goal Seek Station:Station Mill Building at 95,25,22
 DOUBLE TAGGED ITEM: Store Item in Stockpile, adamantine strands
 loop path fail: <same square> dwarf,106,26,23 -> 122,21,23: Id #627:Path Goal Performance:Station Mill Building at 108,41,23
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+Unrecognized Announcement Token: TRAVEL_ADVISORY
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> human,106,29,23 -> 100,29,23: Id #14670:Path Goal Performance:Station Mill Building at 120,19,23
+loop path fail: <same square> dwarf,112,29,23 -> 122,28,23: Id #12665:Path Goal Performance:Station Mill Building at 105,23,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+loop path fail: <same square> human,107,27,23 -> 114,25,23: Id #15889:Path Goal Performance:Station Mill Building at 99,21,23
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw adamantine
